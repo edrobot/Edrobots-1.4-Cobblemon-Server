@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.7.0-deeper-down-alpha21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/pxwTF3oe/spectrum-1.7.0-deeper-down-alpha21.jar"
+hash-format = "sha1"
+hash = "4c8104374f2d9f2f0c44f459dca38eb686bf776b"
+
+[update]
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "pxwTF3oe"

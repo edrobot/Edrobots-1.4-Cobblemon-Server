@@ -1,0 +1,13 @@
+name = "TreeAxe [FABRIC]"
+filename = "TreeAxe-Fabric-1.19.2-1.2.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "258952c468215bd710d64c7fd4a5e2f91ed93c39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4070049
+project-id = 504229

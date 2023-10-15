@@ -1,0 +1,13 @@
+name = "Cobblemon - Fight or Flight"
+filename = "fightorflight-0.4.11-12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nVwQ2GKC/versions/aEXh3aD8/fightorflight-0.4.11-12.jar"
+hash-format = "sha1"
+hash = "bb215608a8930167d29fc7112cd2622a252850e8"
+
+[update]
+[update.modrinth]
+mod-id = "nVwQ2GKC"
+version = "aEXh3aD8"

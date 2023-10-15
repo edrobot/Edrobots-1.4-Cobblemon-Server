@@ -1,0 +1,13 @@
+name = "Edrobot Minecraft Mod Pack"
+author = "Edrobot"
+version = ".5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7403be8ae962fa6d0e1b50e8c776a530f7ef428449670fc376c2e7027f839be5"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.2"

@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/advanced-tooltips.pw.toml"
-hash = "a4aea0e6e7d7a44517767d45e003b601d587648dc0a61ef733afaca6ded2db09"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b6b6e112dcd5a4c4db942e88c3ef5f89e722f51f82beae2a1e0fa792ad385946"
 metafile = true
@@ -56,38 +51,13 @@ hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-fight-or-flight.pw.toml"
-hash = "f2c9da6aaae4ee800ccbb665ccbcad4986ad06deef78cce1ddea9e3a464402e0"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-info.pw.toml"
-hash = "16fdb5cca446b48d9d97ee72411038e082f844547219051eabcb8d2ed9c42e33"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-unimplemented-items.pw.toml"
-hash = "dcc8ff8819fe286fb6a3e939f87018fa08bbde427a31011ff38887eedc9ccbe8"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "e02d646581404d370e3a1db3774fa3d055ab4f783933a85e0cb87fc8225a9cdb"
-metafile = true
-
-[[files]]
-file = "mods/cobblemonextras.pw.toml"
-hash = "010118d84aa094ee2ea44b0be4bb8055ac44a7b7dc6c299f9c5bc7aef493b197"
 metafile = true
 
 [[files]]
@@ -303,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "2608260d45b90e6ca0438e8eb5fea8c8f9d95a1f0dd670db7730331f623c2a08"
 metafile = true
 
 [[files]]

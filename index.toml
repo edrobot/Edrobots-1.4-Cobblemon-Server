@@ -76,11 +76,6 @@ hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "b695203d81f94b86f538dcc1908a4d1368703f255336bff514b7e85b1651f3fc"
-metafile = true
-
-[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
 metafile = true

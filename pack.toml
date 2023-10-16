@@ -1,13 +1,13 @@
-name = "Edrobot Minecraft Mod Pack"
+name = "EMS DIFFERENT FUTURE"
 author = "Edrobot"
-version = ".5"
+version = "i.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "24c00158939c50bae5d9bac8312ae4f16a7ee637198196234253834fb3ffa449"
+hash = "1ffa747e7d761b259bd9dd7477c443cf4829bf7bf51b96f6fc7a0cb937541a78"
 
 [versions]
-fabric = "0.14.23"
+forge = "47.2.1"
 minecraft = "1.20.1"

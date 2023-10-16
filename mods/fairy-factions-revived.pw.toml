@@ -1,0 +1,13 @@
+name = "Fairy Factions Revived"
+filename = "[Forge] fairyfactions-1.20.1-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbf63660b725edf24bc38e8be5bcec5bf08031aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4776737
+project-id = 839349

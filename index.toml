@@ -106,6 +106,11 @@ hash = "8bd5bc2330225cac3d3d1599b9c7ccfae687347735d8ac5327ad4d76fd295551"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "395d7d1bd13034e990f57ef742ff0d570197d999bd0cd6ffee438a0f1c2aaf27"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "762fc9b6eaf8e8698cea5d010e4b15e543d5d10b4a4b352b861674f52b32296f"
 metafile = true

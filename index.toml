@@ -81,6 +81,11 @@ hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5ccfbe99ed9975c29e4efd9bc4896f299cef468868d5bdb2fa8461f0e5b3e6c6"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
 metafile = true

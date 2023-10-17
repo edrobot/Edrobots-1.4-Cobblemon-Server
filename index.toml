@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "395d7d1bd13034e990f57ef742ff0d570197d999bd0cd6ffee438a0f1c2aaf27"
+hash = "796bc39d28dc9e62286a920cc9bdaecc3a27b47f1f565efdc316e82fedbbdfd4"
 metafile = true
 
 [[files]]
